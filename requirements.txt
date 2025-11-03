@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+sqlalchemy
+psycopg[binary]
+requests
+python-dateutil
+joblib
+streamlit
+plotly
